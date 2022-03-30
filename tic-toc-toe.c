@@ -1,2 +1,0 @@
-tic-toc-toe.c
-.
